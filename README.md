@@ -4,7 +4,7 @@
 ## Image
 
 <div align="center>
-  <img src="img/1.png" />
+  <img src="img\1.png" />
   </div>
 
 ## install
