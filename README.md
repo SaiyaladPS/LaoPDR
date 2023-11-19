@@ -3,9 +3,12 @@
 
 ## Image
 
-<div align="center>
-  <img src="img\1.png" />
-  </div>
+> <div align="center">  
+>   <img src="img/1.png"/>&nbsp;
+>    <img src="img/2.png"/>&nbsp;
+>    <img src="img/3.png"/>&nbsp;
+>    <img src="img/4.png"/>&nbsp;
+>  </div>
 
 ## install
 
@@ -13,6 +16,7 @@
 > - THML
 > - CSS
 > - GSAP https://gsap.com/resources/getting-started/timelines/
+> - Bootstrap 5.0 https://getbootstrap.com/docs/5.0/getting-started/introduction/
 
 ```Bash
 npm install -g sass
