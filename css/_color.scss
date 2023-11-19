@@ -1,0 +1,30 @@
+:root {
+    --background: #000000;
+    --color-1: #ffffff;
+    --background-nav: linear-gradient(85deg, rgba(35, 56, 240, 1) 2%, rgba(255, 9, 254, 1) 82%);
+    --color-nenu: linear-gradient(85deg, rgba(0, 233, 238, 1) 0%, rgba(96, 255, 9, 1) 100%);
+    --color-nenu-1: linear-gradient(85deg, rgba(0, 233, 238, 1) 0%, rgba(255, 9, 9, 1) 100%);
+    --color-nenu-2: linear-gradient(85deg, rgba(185, 11, 11, 1) 0%, rgba(255, 9, 171, 1) 100%);
+    --background-button: linear-gradient(to bottom, #002b9d, #34ffea);
+    --color-border: linear-gradient(85deg, rgba(0, 233, 238, 1) 0%, rgba(96, 255, 9, 1) 100%) 1;
+    --shadow: rgb(255 255 255 / 5%);
+    --color-2: linear-gradient(90deg, rgba(195,34,178,1) 0%, rgba(62,45,253,1) 100%);
+}
+[data-theme="lignt"] {
+    --color-2: linear-gradient(90deg, rgba(255,171,0,1) 0%, rgba(210,63,0,1) 100%);
+    --background: #ffffff;
+    --color-1: #000000;
+    --background-nav: linear-gradient(85deg, rgba(240, 179, 35, 1) 2%, rgba(255, 124, 9, 1) 69%);
+    --background-button: linear-gradient(to bottom, #ff9500, #ff0000);
+    --shadow: rgba(0, 0, 0, 0.233);
+    --color-nenu: linear-gradient(85deg, rgba(0, 233, 238, 1) 0%, rgba(96, 255, 9, 1) 100%) 1;
+}
+[data-theme="dark"] {
+    --color-2: linear-gradient(90deg, rgba(195,34,178,1) 0%, rgba(62,45,253,1) 100%);
+    --background: #000000;
+    --color-1: #ffffff;
+    --background-nav: linear-gradient(85deg, rgba(35, 56, 240, 1) 2%, rgba(255, 9, 254, 1) 82%);
+    --background-button: linear-gradient(to bottom, #002b9d, #34ffea);
+    --shadow: rgb(255 255 255 / 5%);
+    --color-nenu: linear-gradient(85deg, rgba(0, 233, 238, 1) 0%, rgba(96, 255, 9, 1) 100%) 1;
+}

@@ -1,0 +1,18 @@
+@import "./color";
+html::-webkit-scrollbar {
+    width: 5px;
+    height: 0;
+}
+
+html::-webkit-scrollbar-track {
+    background-color: var(--background);
+}
+
+html::-webkit-scrollbar-thumb {
+    background: var(--background-nav);
+    border-radius: 1px;
+}
+
+html::-webkit-scrollbar-thumb:hover {
+    background-color: #000000;
+}
