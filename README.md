@@ -29,5 +29,5 @@ sass --watch input.scss:output.css
 ```
 ## Toos
 <div>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" wdith="30px"/>
  </div>
