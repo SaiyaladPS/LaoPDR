@@ -28,6 +28,6 @@ npm install -g sass
 sass --watch input.scss:output.css
 ```
 ## Toos
-<div>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" wdith="30px"/>
+<div ailgn="center">
+<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
  </div>
