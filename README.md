@@ -13,8 +13,6 @@
 ## install
 
 > - Sass
-> - THML
-> - CSS
 > - GSAP https://gsap.com/resources/getting-started/timelines/
 > - Bootstrap 5.0 https://getbootstrap.com/docs/5.0/getting-started/introduction/
 
