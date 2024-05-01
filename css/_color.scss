@@ -9,17 +9,20 @@
     --color-border: linear-gradient(85deg, rgba(0, 233, 238, 1) 0%, rgba(96, 255, 9, 1) 100%) 1;
     --shadow: rgb(255 255 255 / 5%);
     --color-2: linear-gradient(90deg, rgba(195,34,178,1) 0%, rgba(62,45,253,1) 100%);
+    --background-forfile: #ffffff;
 }
 [data-theme="lignt"] {
     --color-2: linear-gradient(90deg, rgba(255,171,0,1) 0%, rgba(210,63,0,1) 100%);
     --background: #ffffff;
     --color-1: #000000;
+    --background-forfile:#ff9500;
     --background-nav: linear-gradient(85deg, rgba(240, 179, 35, 1) 2%, rgba(255, 124, 9, 1) 69%);
     --background-button: linear-gradient(to bottom, #ff9500, #ff0000);
     --shadow: rgba(0, 0, 0, 0.233);
     --color-nenu: linear-gradient(85deg, rgba(0, 233, 238, 1) 0%, rgba(96, 255, 9, 1) 100%) 1;
 }
 [data-theme="dark"] {
+    --background-forfile: #ffffff;
     --color-2: linear-gradient(90deg, rgba(195,34,178,1) 0%, rgba(62,45,253,1) 100%);
     --background: #000000;
     --color-1: #ffffff;
